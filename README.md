@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Mudra Koradia</h1>
+<h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Ankush Gurhani</h1>
 
 - 🎓 I am a graduate student pursuing my master's in computer science at Pace University.
   
@@ -8,9 +8,9 @@
   
 - 🌱 Embracing the mindset of a lifelong learner.
   
-- 🤝 I’m looking for an **Internship** or **Full-Time** opportunity.
+- 🤝 I’m looking for an **Full-Time** opportunity.
   
-- 📫 Reach me at **mudrakoradiamk@gmail.com**.
+- 📫 Reach me at **ankush27.gurhani@gmail.com**.
 
 As an experienced software developer with a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Laravel, NodeJS and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
 
