@@ -10,9 +10,9 @@
   
 - 🤝 I’m looking for an **Full-Time** opportunity.
   
-- 📫 Reach me at **ankush27.gurhani@gmail.com**.
+- 📫 Reach me at **gurhani.work@gmail.com**.
 
-As an experienced software developer with a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. With a strong background in front-end development, I am well-versed in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Additionally, I have significant experience in back-end frameworks like Laravel, NodeJS and Django and have worked with CSS utility-based frameworks like Bootstrap and Tailwind.
+With 5 years of hands-on experience as a Software Developer, I specialize in the end-to-end development of backend-based web applications and services within the Financial and IT industry. Proficient in a diverse set of technologies, I excel in Python, Java, J2EE, Spring framework, alongside modern front-end frameworks such as Angular, React.js, HTML5, CSS3, and JavaScript. With a passion for technology, I bring a deep understanding of languages like JavaScript, Typescript, PHP, and Python to the table. My strong background in front-end development includes expertise in libraries like ReactJS, Redux, NextJS, GatsbyJS, UmiJS, AntD, and MaterialUI. Moreover, I possess significant experience in back-end frameworks such as Laravel, NodeJS, and Django, and have adeptly worked with CSS utility-based frameworks like Bootstrap and Tailwind.
 
 <!-- <h2 align="left">Connect with me:</h2> -->
 
