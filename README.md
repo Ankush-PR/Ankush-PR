@@ -1,8 +1,8 @@
-<h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Ankush Gurhani</h1>
+<h1 align="left">Hi, <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Ankush Gurhani</h1>
 
 - 🎓 I am a graduate student pursuing my master's in computer science at Pace University.
   
-- 👨‍💻 Software Developer having three years of Industry Experience.
+- 👨‍💻 Software Developer having Five years of Industry Experience.
   
 - 🌟 I prioritize self-motivation and enthusiasm and constantly seek to expand my knowledge and skill set.
   
